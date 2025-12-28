@@ -1,0 +1,60 @@
+{
+  "areas": {
+    "park-street": {
+      "name": "Park Street",
+      "zone": "central",
+      "description": "The heart of Kolkata's nightlife and dining scene",
+      "keywords": ["park street", "park st", "mother teresa sarani"],
+      "nearby_metro": "Park Street Metro",
+      "characteristics": ["restaurants", "pubs", "shopping", "nightlife"]
+    },
+    "gariahat": {
+      "name": "Gariahat",
+      "zone": "south",
+      "description": "Bustling shopping and food hub in South Kolkata",
+      "keywords": ["gariahat", "garia hat", "rashbehari"],
+      "nearby_metro": "Gariahat Metro",
+      "characteristics": ["street food", "shopping", "middle-class", "affordable"]
+    },
+    "salt-lake": {
+      "name": "Salt Lake (Bidhannagar)",
+      "zone": "east",
+      "description": "Planned city area, IT hub with modern amenities",
+      "keywords": ["salt lake", "bidhannagar", "sector v", "city centre"],
+      "nearby_metro": "Karunamoyee, City Centre",
+      "characteristics": ["IT professionals", "malls", "planned", "modern"]
+    },
+    "college-street": {
+      "name": "College Street",
+      "zone": "central",
+      "description": "Book lovers' paradise and student hub",
+      "keywords": ["college street", "boi para", "coffee house"],
+      "nearby_metro": "Shyama Charan Mukherjee Street",
+      "characteristics": ["books", "students", "intellectual", "coffee"]
+    },
+    "jadavpur": {
+      "name": "Jadavpur",
+      "zone": "south",
+      "description": "University area known for student culture and affordable food",
+      "keywords": ["jadavpur", "jadu", "8b stand"],
+      "nearby_metro": "Jadavpur Metro",
+      "characteristics": ["university", "students", "budget-friendly", "cultural"]
+    },
+    "howrah": {
+      "name": "Howrah",
+      "zone": "west",
+      "description": "Railway hub and industrial area across the Hooghly",
+      "keywords": ["howrah", "station", "shibpur"],
+      "nearby_metro": "Howrah Maidan, Howrah",
+      "characteristics": ["railway", "industrial", "wholesale", "traditional"]
+    },
+    "tangra": {
+      "name": "Tangra",
+      "zone": "east",
+      "description": "Chinatown of Kolkata with authentic Chinese community and food",
+      "keywords": ["tangra", "chinatown", "chinese"],
+      "nearby_metro": "Phoolbagan (Purple Line)",
+      "characteristics": ["chinese", "authentic", "community", "food"]
+    }
+  }
+}

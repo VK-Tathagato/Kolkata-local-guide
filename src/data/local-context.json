@@ -1,0 +1,102 @@
+{
+  "slang_and_phrases": {
+    "bengali_basics": [
+      {
+        "phrase": "Namaskar",
+        "meaning": "Hello/Goodbye (formal)",
+        "usage": "Greeting elders or in formal situations"
+      },
+      {
+        "phrase": "Adda",
+        "meaning": "Informal chatting/hanging out",
+        "usage": "The heart of Kolkata culture - leisurely conversations"
+      },
+      {
+        "phrase": "Dada/Didi",
+        "meaning": "Brother/Sister (respectful address)",
+        "usage": "How to address shopkeepers, auto drivers, anyone older"
+      },
+      {
+        "phrase": "Cha",
+        "meaning": "Tea",
+        "usage": "Essential part of any adda or break"
+      },
+      {
+        "phrase": "Mishti",
+        "meaning": "Sweets",
+        "usage": "Bengali sweets are a must-try cultural experience"
+      }
+    ],
+    "area_nicknames": [
+      {
+        "formal": "College Street",
+        "local": "Boi Para",
+        "meaning": "Book neighborhood - famous for book shops"
+      },
+      {
+        "formal": "Sector V",
+        "local": "IT Para",
+        "meaning": "IT neighborhood - tech hub of Kolkata"
+      },
+      {
+        "formal": "Tangra",
+        "local": "Chinatown",
+        "meaning": "Chinese community area with authentic food"
+      },
+      {
+        "formal": "North Kolkata",
+        "local": "Dada's Kolkata",
+        "meaning": "Traditional, old-world charm area"
+      }
+    ]
+  },
+  "cultural_context": {
+    "food_etiquette": [
+      "Always wash hands before eating",
+      "Rice is eaten with hands in traditional Bengali meals",
+      "Fish and rice are staples - don't be surprised by fish bones",
+      "Sweets are offered to guests as a sign of respect"
+    ],
+    "social_norms": [
+      "Adda (casual conversation) is sacred - don't rush it",
+      "Respect for elders is very important",
+      "Football (soccer) discussions can get passionate",
+      "Durga Puja (September-October) is the biggest festival"
+    ],
+    "shopping_tips": [
+      "Bargaining is expected in local markets",
+      "New Market is great for variety but touristy",
+      "Gariahat market is more local and affordable",
+      "Book shopping at College Street is a cultural experience"
+    ]
+  },
+  "seasonal_advice": {
+    "monsoon": {
+      "months": "June-September",
+      "tips": [
+        "Carry umbrella always",
+        "Avoid low-lying areas during heavy rain",
+        "Try hot tea and pakoras during rain",
+        "Indoor malls become popular hangout spots"
+      ]
+    },
+    "winter": {
+      "months": "November-February",
+      "tips": [
+        "Best time to explore the city",
+        "Rooftop restaurants are pleasant",
+        "Book fair happens in January-February",
+        "Perfect weather for walking tours"
+      ]
+    },
+    "summer": {
+      "months": "March-May",
+      "tips": [
+        "Start early morning activities",
+        "Seek AC places during afternoon",
+        "Try cooling drinks like lassi, coconut water",
+        "Evening activities are more comfortable"
+      ]
+    }
+  }
+}

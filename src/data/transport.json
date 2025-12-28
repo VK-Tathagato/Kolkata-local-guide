@@ -1,0 +1,71 @@
+{
+  "metro_lines": {
+    "blue_line": {
+      "name": "North-South Line (Blue)",
+      "route": "Dakshineswar to Kavi Subhash",
+      "key_stations": ["Dakshineswar", "Shyambazar", "Girish Park", "Esplanade", "Park Street", "Kalighat", "Jadavpur", "Kavi Subhash"],
+      "fare_range": "₹5-15",
+      "timing": "6:50 AM - 9:45 PM"
+    },
+    "green_line": {
+      "name": "East-West Line (Green)",
+      "route": "Howrah Maidan to Sector V",
+      "key_stations": ["Howrah Maidan", "Howrah", "Esplanade", "Sealdah", "City Centre", "Karunamoyee", "Sector V"],
+      "fare_range": "₹5-15",
+      "timing": "8:00 AM - 8:00 PM"
+    },
+    "purple_line": {
+      "name": "Joka-Phoolbagan Line (Purple)",
+      "route": "Joka to Phoolbagan",
+      "key_stations": ["Joka", "Thakurpukur", "Majerhat", "Phoolbagan"],
+      "fare_range": "₹5-10",
+      "timing": "8:00 AM - 8:00 PM"
+    }
+  },
+  "common_routes": [
+    {
+      "from": "Salt Lake",
+      "to": "Park Street",
+      "metro": "Green Line to Esplanade, then Blue Line to Park Street",
+      "bus": "AC 39, S2",
+      "auto_fare": "₹80-120",
+      "time": "45-60 minutes"
+    },
+    {
+      "from": "Gariahat",
+      "to": "College Street",
+      "metro": "Blue Line: Gariahat to Shyama Charan Mukherjee Street",
+      "bus": "8B, 29, 30",
+      "auto_fare": "₹60-90",
+      "time": "30-45 minutes"
+    },
+    {
+      "from": "Jadavpur",
+      "to": "Howrah Station",
+      "metro": "Blue Line to Esplanade, then Green Line to Howrah",
+      "bus": "AC 40, 45",
+      "auto_fare": "₹100-150",
+      "time": "60-75 minutes"
+    }
+  ],
+  "transport_tips": {
+    "metro": [
+      "Buy smart card for frequent travel",
+      "Avoid peak hours (8-10 AM, 6-8 PM) for comfort",
+      "Ladies compartment available in all trains",
+      "Stand on right side of escalators"
+    ],
+    "bus": [
+      "AC buses cost ₹7-15, non-AC ₹5-8",
+      "Download Pathadisha app for routes",
+      "Carry exact change when possible",
+      "Private buses (yellow) vs government (blue/green)"
+    ],
+    "auto": [
+      "Negotiate fare before starting",
+      "Sharing autos available on fixed routes",
+      "Use Uber/Ola for transparent pricing",
+      "Night charges apply after 11 PM"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "food_spots": {
+    "street_food": [
+      {
+        "name": "Vivekananda Park Phuchka",
+        "area": "gariahat",
+        "type": "street_food",
+        "speciality": "Phuchka, Jhalmuri",
+        "price_range": "₹20-50",
+        "budget_category": "under_100",
+        "timing": "4 PM - 10 PM",
+        "description": "Famous for the best phuchka in South Kolkata"
+      },
+      {
+        "name": "Shyama Charan Mukherjee Street Food",
+        "area": "college-street",
+        "type": "street_food",
+        "speciality": "Kochuri, Alur Dom, Jilipi",
+        "price_range": "₹15-40",
+        "budget_category": "under_100",
+        "timing": "7 AM - 11 AM, 4 PM - 8 PM",
+        "description": "Traditional Bengali breakfast and evening snacks"
+      },
+      {
+        "name": "Tangra Chinese Street Stalls",
+        "area": "tangra",
+        "type": "street_food",
+        "speciality": "Chowmein, Chilli Chicken, Momos",
+        "price_range": "₹40-80",
+        "budget_category": "under_100",
+        "timing": "6 PM - 11 PM",
+        "description": "Authentic Chinese street food in Chinatown"
+      }
+    ],
+    "restaurants": [
+      {
+        "name": "Flurys",
+        "area": "park-street",
+        "type": "bakery_restaurant",
+        "speciality": "Continental breakfast, Pastries, Tea",
+        "price_range": "₹200-500",
+        "budget_category": "100_300",
+        "timing": "7:30 AM - 9:30 PM",
+        "description": "Iconic colonial-era bakery and restaurant"
+      },
+      {
+        "name": "Bhojohori Manna",
+        "area": "gariahat",
+        "type": "bengali_restaurant",
+        "speciality": "Traditional Bengali thali, Fish curry",
+        "price_range": "₹150-350",
+        "budget_category": "100_300",
+        "timing": "12 PM - 3 PM, 7 PM - 10:30 PM",
+        "description": "Authentic Bengali home-style cooking"
+      },
+      {
+        "name": "Coffee House",
+        "area": "college-street",
+        "type": "cafe",
+        "speciality": "Filter coffee, Cutlet, Adda",
+        "price_range": "₹30-100",
+        "budget_category": "under_100",
+        "timing": "8 AM - 8 PM",
+        "description": "Historic adda spot for intellectuals and students"
+      },
+      {
+        "name": "City Centre Food Court",
+        "area": "salt-lake",
+        "type": "food_court",
+        "speciality": "Multi-cuisine, Fast food",
+        "price_range": "₹100-300",
+        "budget_category": "100_300",
+        "timing": "11 AM - 10 PM",
+        "description": "Modern food court with AC comfort"
+      }
+    ],
+    "fine_dining": [
+      {
+        "name": "Oh! Calcutta",
+        "area": "park-street",
+        "type": "fine_dining",
+        "speciality": "Upscale Bengali cuisine",
+        "price_range": "₹800-1500",
+        "budget_category": "800_plus",
+        "timing": "12 PM - 3 PM, 7 PM - 11 PM",
+        "description": "Premium Bengali restaurant with modern presentation"
+      },
+      {
+        "name": "Mocambo",
+        "area": "park-street",
+        "type": "continental",
+        "speciality": "Continental, Steaks, Cocktails",
+        "price_range": "₹600-1200",
+        "budget_category": "300_800",
+        "timing": "12 PM - 11:30 PM",
+        "description": "Classic Park Street restaurant since 1956"
+      }
+    ]
+  }
+}
